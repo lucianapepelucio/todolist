@@ -71,5 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 *** Aplicação em React
-
 *** Curso Completo para Iniciantes - dicasparadevs - Felipe Mota Rocha
