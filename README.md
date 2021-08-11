@@ -1,5 +1,8 @@
-*** Aplicação em React
-*** Curso Completo para Iniciantes - dicasparadevs - Felipe Mota Rocha
+# Aplicação em React
+
+## Curso Completo para Iniciantes - dicasparadevs - Felipe Mota Rocha
+
+### Lista de coisas para fazer com informação de cada atividade
 
 
 # Getting Started with Create React App
