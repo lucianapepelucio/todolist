@@ -1,6 +1,11 @@
 ## Aplicação em React
 
-### Lista de coisas para fazer com informação de cada atividade
+Esse projeto:
+
+- Te permite fazer uma lista de coisas a fazer
+- Você pode adicionar as atividades que devem ser realizadas
+- Acessar as informações sobre cada atividade
+- Excluir determinada atividade da lista
 
 Curso Completo para Iniciantes - dicasparadevs - Felipe Mota Rocha
 
