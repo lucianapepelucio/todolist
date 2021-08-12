@@ -1,4 +1,4 @@
-## Aplicação em React
+# Aplicação em React
 
 Esse projeto:
 
